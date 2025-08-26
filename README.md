@@ -1,10 +1,43 @@
-Have a good day.
+<h1 align="center">Hi 👋, I'm Long</h1>
+<p align="center">
+  <i>Have a good day ☕</i>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Long9904&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Long9904&langs_count=8&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+### 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Long9904&show_icons=true&theme=tokyonight&hide=issues,contribs" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Long9904&theme=tokyonight" height="165"/>
+</p>
 
+---
 
+### 📊 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Long9904&layout=compact&theme=tokyonight&langs_count=6" height="165"/>
+</p>
 
+---
 
+### 📌 Pinned Repositories
+<p align="center">
+  <a href="https://github.com/Long9904/Vaccine-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Long9904&repo=Vaccine-Project&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Long9904/MilkTea">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Long9904&repo=MilkTea&theme=tokyonight" />
+  </a>
+</p>
 
+---
+
+### 📫 How to reach me
+- 📧 Email: longvu09092004@gmail.com  
+- 💼 LinkedIn: [https://www.linkedin.com/in/v%C5%A9-ho%C3%A0ng-long-55156535b](#)  
+ 
+
+---
+
+### ✨ Quote
+<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
