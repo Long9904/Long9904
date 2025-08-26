@@ -18,14 +18,14 @@
 
 ### 🔥 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Long9904&show_icons=true&theme=tokyonight&hide=issues,contribs" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Long9904&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Long9904&show_icons=true&theme=tokyonight&hide=issues,contribs&cache_seconds=600" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Long9904&theme=tokyonight&cache_seconds=600" height="165"/>
 </p>
 
 ---
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Long9904&layout=compact&theme=tokyonight&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Long9904&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=600" height="165"/>
 </p>
 
 ---
@@ -33,13 +33,13 @@
 ### 📌 Pinned Repositories
 <p align="center">
   <a href="https://github.com/Long9904/Vaccine-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Long9904&repo=Vaccine-Project&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Long9904&repo=Vaccine-Project&theme=tokyonight&cache_seconds=600" />
   </a>
   <a href="https://github.com/Long9904/MilkTea">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Long9904&repo=MilkTea&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Long9904&repo=MilkTea&theme=onedark&cache_seconds=600" />
   </a>
     <a href="https://github.com/Long9904/ToDoApp-FE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Long9904&repo=ToDoApp-FE&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Long9904&repo=ToDoApp-FE&theme=dracula&cache_seconds=600" />
   </a>
 </p>
 
