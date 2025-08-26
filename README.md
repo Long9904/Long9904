@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Long</h1>
+<h1>Halo 👋, I'm Long</h1>
 <p>
   <i>Have a good day ☕</i>
 </p>
@@ -32,7 +32,7 @@
 
 ### 📫 How to reach me
 - 📧 Email: longvu09092004@gmail.com  
-- 💼 LinkedIn: [https://www.linkedin.com/in/v%C5%A9-ho%C3%A0ng-long-55156535b](#)  
+- 💼 LinkedIn: https://www.linkedin.com/in/v%C5%A9-ho%C3%A0ng-long-55156535b(#)  
  
 
 ---
