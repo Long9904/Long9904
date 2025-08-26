@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Long</h1>
-<p align="center">
+<h1>Hi 👋, I'm Long</h1>
+<p>
   <i>Have a good day ☕</i>
 </p>
 
@@ -9,15 +9,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Long9904&show_icons=true&theme=tokyonight&hide=issues,contribs" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Long9904&theme=tokyonight" height="165"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Long9904&layout=compact&theme=tokyonight&langs_count=6" height="165"/>
 </p>
-
----
-
-### 📊 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Long9904&layout=compact&theme=tokyonight&langs_count=6" height="165"/>
-</p>
-
 ---
 
 ### 📌 Pinned Repositories
