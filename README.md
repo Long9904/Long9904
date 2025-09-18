@@ -18,14 +18,14 @@
 
 ### 🔥 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Long9904&show_icons=true&theme=tokyonight&hide=issues,contribs&height=165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Long9904&theme=tokyonight&height=165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Long9904&show_icons=true&theme=tokyonight&hide=issues,contribs" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Long9904&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Long9904&layout=compact&theme=tokyonight&langs_count=6&height=165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Long9904&layout=compact&theme=tokyonight&langs_count=6" height="165"/>
 </p>
 
 ---
@@ -38,7 +38,7 @@
   <a href="https://github.com/Long9904/MilkTea">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Long9904&repo=MilkTea&theme=onedark" />
   </a>
-    <a href="https://github.com/Long9904/ToDoApp-FE">
+  <a href="https://github.com/Long9904/ToDoApp-FE">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Long9904&repo=ToDoApp-FE&theme=dracula" />
   </a>
 </p>
@@ -49,8 +49,8 @@
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:longvu09092004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C5%A9-ho%C3%A0ng-long-55156535b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:longvu09092004@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C5%A9-ho%C3%A0ng-long-55156535b)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Long9904)
 
 </div>
