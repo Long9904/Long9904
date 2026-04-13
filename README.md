@@ -61,63 +61,62 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/Long9904/Vaccine-Project">
-        <img src="https://img.shields.io/badge/🔬_Vaccine_Project-tokyonight?style=for-the-badge&color=1a1b27" width="100%"/>
+        <b>📦 Vaccine-Project</b>
       </a>
+      &nbsp;<img src="https://img.shields.io/badge/Public-555?style=flat-square"/>
       <br/>
-      <b><a href="https://github.com/Long9904/Vaccine-Project">Vaccine Project</a></b>
-      <br/>
-      <sub>Hệ thống quản lý tiêm chủng</sub>
+      <sub>Hệ thống quản lý tiêm chủng vaccine</sub>
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/Long9904/Vaccine-Project?style=flat-square&color=ffd700"/>
-      <img src="https://img.shields.io/github/forks/Long9904/Vaccine-Project?style=flat-square&color=70a5fd"/>
-      <img src="https://img.shields.io/github/languages/top/Long9904/Vaccine-Project?style=flat-square&color=bf91f3"/>
+      <img src="https://img.shields.io/badge/●_Java-ED8B00?style=flat-square&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/Long9904/Vaccine-Project?style=flat-square&color=grey"/>
+      <img src="https://img.shields.io/github/forks/Long9904/Vaccine-Project?style=flat-square&color=grey"/>
     </td>
-    <td align="center" width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/Long9904/MilkTea">
-        <img src="https://img.shields.io/badge/🧋_MilkTea-onedark?style=for-the-badge&color=282c34" width="100%"/>
+        <b>📦 MilkTea</b>
       </a>
-      <br/>
-      <b><a href="https://github.com/Long9904/MilkTea">MilkTea</a></b>
+      &nbsp;<img src="https://img.shields.io/badge/Public-555?style=flat-square"/>
       <br/>
       <sub>Ứng dụng quản lý quán trà sữa</sub>
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/Long9904/MilkTea?style=flat-square&color=ffd700"/>
-      <img src="https://img.shields.io/github/forks/Long9904/MilkTea?style=flat-square&color=70a5fd"/>
-      <img src="https://img.shields.io/github/languages/top/Long9904/MilkTea?style=flat-square&color=bf91f3"/>
+      <img src="https://img.shields.io/badge/●_Java-ED8B00?style=flat-square&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/Long9904/MilkTea?style=flat-square&color=grey"/>
+      <img src="https://img.shields.io/github/forks/Long9904/MilkTea?style=flat-square&color=grey"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Long9904/ToDoApp-FE">
-        <img src="https://img.shields.io/badge/✅_ToDoApp_FE-dracula?style=for-the-badge&color=282a36" width="100%"/>
-      </a>
-      <br/>
-      <b><a href="https://github.com/Long9904/ToDoApp-FE">ToDoApp Frontend</a></b>
-      <br/>
-      <sub>Ứng dụng quản lý công việc</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/github/stars/Long9904/ToDoApp-FE?style=flat-square&color=ffd700"/>
-      <img src="https://img.shields.io/github/forks/Long9904/ToDoApp-FE?style=flat-square&color=70a5fd"/>
-      <img src="https://img.shields.io/github/languages/top/Long9904/ToDoApp-FE?style=flat-square&color=bf91f3"/>
-    </td>
-    <td align="center" width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/Long9904/MuseumManagementSystem">
-        <img src="https://img.shields.io/badge/🏛️_Museum_System-dracula?style=for-the-badge&color=282a36" width="100%"/>
+        <b>📦 Long9904/MuseumManagementSystem</b>
       </a>
-      <br/>
-      <b><a href="https://github.com/Long9904/MuseumManagementSystem">Museum Management</a></b>
+      &nbsp;<img src="https://img.shields.io/badge/Public-555?style=flat-square"/>
       <br/>
       <sub>Hệ thống quản lý bảo tàng</sub>
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/Long9904/MuseumManagementSystem?style=flat-square&color=ffd700"/>
-      <img src="https://img.shields.io/github/forks/Long9904/MuseumManagementSystem?style=flat-square&color=70a5fd"/>
-      <img src="https://img.shields.io/github/languages/top/Long9904/MuseumManagementSystem?style=flat-square&color=bf91f3"/>
+      <img src="https://img.shields.io/badge/●_C%23-239120?style=flat-square&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/Long9904/MuseumManagementSystem?style=flat-square&color=grey"/>
+      <img src="https://img.shields.io/github/forks/Long9904/MuseumManagementSystem?style=flat-square&color=grey"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Long9904/ToDoApp-FE">
+        <b>📦 ToDoApp-FE</b>
+      </a>
+      &nbsp;<img src="https://img.shields.io/badge/Public-555?style=flat-square"/>
+      <br/>
+      <sub>Ứng dụng quản lý công việc - Frontend</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/●_JavaScript-F7DF1E?style=flat-square&logoColor=black"/>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/Long9904/ToDoApp-FE?style=flat-square&color=grey"/>
+      <img src="https://img.shields.io/github/forks/Long9904/ToDoApp-FE?style=flat-square&color=grey"/>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 📫 Let's Connect!
